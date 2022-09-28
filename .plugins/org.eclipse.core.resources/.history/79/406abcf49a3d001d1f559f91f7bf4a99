@@ -1,0 +1,15 @@
+package vücutkitledirenci;
+
+public class Main {
+
+	public static void main(String[] args) {
+			double agirlik=31.0;
+			double boy= 1.13;
+			double vki=agirlik/(boy*boy);
+			if(vki<18.5) {
+				System.out.println("Zayıf");
+			}
+			
+		}
+		
+    }

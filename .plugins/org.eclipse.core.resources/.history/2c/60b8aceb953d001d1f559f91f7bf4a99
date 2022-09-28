@@ -1,0 +1,17 @@
+package degişken;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String ad ="Ecrin";
+ String soyad ="Demirkol";
+ String yas ="15";
+ String cins ="kadın";
+ System.out.println("ad"+"soyad"+"yas"+"cins");
+		 
+				
+				
+
+	}
+
+}
